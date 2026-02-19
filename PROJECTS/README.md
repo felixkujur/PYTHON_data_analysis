@@ -117,7 +117,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the US](images/Trending_Top_Skills_for_Data_Analysts_in_the_US.png)  
+![Trending Top Skills for Data Analysts in the US](PROJECTS\images\skill_trends.png)  
 *Bar graph visualizing the trending top skills for data analysts in the US in 2023.*
 
 ### Insights:
@@ -129,7 +129,7 @@ plt.show()
 
 To identify the highest-paying roles and skills, I only got jobs in the United States and looked at their median salary. But first I looked at the salary distributions of common data jobs like Data Scientist, Data Engineer, and Data Analyst, to get an idea of which jobs are paid the most. 
 
-View my notebook with detailed steps here: [4_Salary_Analysis](4_Salary_Analysis.ipynb).
+View my notebook with detailed steps here: [Salary_Analysis](PROJECTS\salary_analysis.ipynb).
 
 #### Visualize Data 
 
@@ -144,7 +144,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in the US](images/Salary_Distributions_of_Data_Jobs_in_the_US.png)  
+![Salary Distributions of Data Jobs in the US](PROJECTS\images\salary_distribution.png)  
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 #### Insights
@@ -178,7 +178,7 @@ plt.show()
 #### Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the US:
 
-![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](images/Highest_Paid_and_Most_In_Demand_Skills_for_Data_Analysts_in_the_US.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](PROJECTS\images\highest_and_most_indemand_skills.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
 #### Insights:
@@ -193,7 +193,7 @@ Here's the breakdown of the highest-paid & most in-demand skills for data analys
 
 To identify the most optimal skills to learn ( the ones that are the highest paid and highest in demand) I calculated the percent of skill demand and the median salary of these skills. To easily identify which are the most optimal skills to learn. 
 
-View my notebook with detailed steps here: [5_Optimal_Skills](5_Optimal_Skills.ipynb).
+View my notebook with detailed steps here: [Optimal_Skills](PROJECTS\optimal_skills.ipynb).
 
 #### Visualize Data
 
